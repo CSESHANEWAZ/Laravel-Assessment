@@ -1,0 +1,139 @@
+body {
+     margin: 0;
+     padding: 0;
+}
+
+.container {
+     background: radial-gradient(99.87% 413.14% at 0% 4.98%, #443453 0%, #232323 28.23%, #252425 100%);
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+     font-family: sans-serif;
+     position: fixed;
+     width: 950px;
+     height: 1081px;
+     left: 0px;
+     top: 0px;
+}
+
+.img-responsive {
+     padding-top: 200px;
+     padding-left: 100px;
+     width: 400px;
+}
+
+.form {
+     background-color: #fff;
+     padding: 80px;
+     margin-top: 40px;
+     position: absolute;
+     width: 450px;
+     height: 600px;
+     left: 800px;
+     background: #FFFFFF;
+     box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.5);
+     border-radius: 10px;
+     
+}
+
+.fp {
+     margin-right: 10px;
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 19px;
+     color: #FF0000;
+     text-decoration: none;
+
+}
+
+.mt-2 {
+     text-align: right;
+}
+
+p {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 20px;
+     line-height: 42px;
+     color: #473558;
+}
+
+.form-control {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 17px;
+     line-height: 23px;
+     color: #707070;
+     background: #FFFFFF;
+     border: 2px solid #666666;
+     box-sizing: border-box;
+     border-radius: 10px;
+}
+
+#button {
+     font-family: Roboto; 
+     color: #FFFFFF; 
+     line-height: 26px; 
+     font-weight: bold; 
+     font-style: normal;
+     text-transform: uppercase;
+     background: #625A99;
+     border-radius: 10px;
+}
+
+hr {
+     width: 130px;
+     height: 0px;
+     border: 1px solid #666666;
+}
+
+.signup {
+     position: absolute;
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 20px;
+     line-height: 23px;
+     color: #707070;
+     left: 100px;
+}
+
+.signup a {
+     text-decoration: none;
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 18px;
+     line-height: 23px;
+}
+
+.img {
+     text-align: center;
+}
+
+
+.divider {
+     display: flex;
+     align-items: center;
+     text-align: center;
+     margin-top: 20px;
+}
+.divider::after,
+.divider::before {
+     content: "";
+     border: 0.1px solid #666666;
+     flex: 1;
+}
+/* Space on left and right sides of text */
+.divider:not(:empty)::before {
+margin-right: 20px;
+}
+.divider:not(:empty)::after {
+margin-left: 20px;
+}
+
+
+
+
