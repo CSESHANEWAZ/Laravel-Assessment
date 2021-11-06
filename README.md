@@ -1,13 +1,11 @@
 # Laravel-Assessment
 
- Preview: https://cseshanewaz.github.io/Laravel-Assessment/
+Screenshot:
  
- Screenshot:
+![](images/Screenshot.png)
  
- ![](images/Screenshot.png)
- 
- <br>
- <small>Created By Md Shanewaz Akib<small>
+<br>
+<small>Created By Md Shanewaz Akib<small>
 
 
 
